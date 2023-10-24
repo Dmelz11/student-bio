@@ -1,0 +1,26 @@
+
+body {
+    background-color: white;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+section {
+    display: block;
+    background-color: lemonchiffon;
+}
+title {
+    color: darkblue;
+}
+#email {
+    background-color: goldenrod;
+}
+#github {
+    background-color: lightsteelblue;
+}
+#portfolio {
+    background-color: darkorange;
+}
